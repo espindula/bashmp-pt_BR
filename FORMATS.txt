@@ -1,0 +1,49 @@
+
+
+The file ``bash.1'' from source tree was transformed into HTML via GNU 
+groff [roff2html in groffer 1.1.2 of 26 Jan 2011 (Perl version)]:
+
+$ roff2html /home/jamenson/bash/doc/bash.1 > bashgcm-en_US.html
+
+
+After, ``bashgcm-en_US.html'' was salved in plain text ASCII via Lynx 
+text web browser [Lynx Version 2.8.8rel.2 (09 Mar 2014)]:
+
+$ lynx bashgcm-en_US.html
+
+Now, we have a good initial file to work on.
+
+
+Thank you Free Software Developers for excellent tools:
+
+roff2html in groffer 1.1.2 of 26 Jan 2011 (Perl version)
+is part of groff version 1.22.2.
+Copyright (C) 2011 Free Software Foundation, Inc.
+GNU groff and groffer come with ABSOLUTELY NO WARRANTY.
+You may redistribute copies of groff and its subprograms
+under the terms of the GNU General Public License.
+
+
+Lynx Version 2.8.8rel.2 (09 Mar 2014)
+libwww-FM 2.14, SSL-MM 1.4.1, OpenSSL 1.0.2, ncurses 5.9.20110404(wide)
+Criado em linux-gnu Mar 14 2015 08:55:46
+
+Copyrights held by the Lynx Developers Group,
+the University of Kansas, CERN, and other contributors.
+Distributed under the GNU General Public License (Version 2).
+See http://lynx.isc.org/ and the online help for more information.
+
+See http://www.openssl.org/ for information about OpenSSL.
+
+
+
+Jaboatão dos Guararapes, Pernambuco, Brazil, 25 February 2016.
+
+Jamenson Ferreira Espindula de Almeida Melo
+GNU/Linux user # 166197
+https://linuxcounter.net/cert/166197.png
+
+Key fingerprint:
+234D 1914 4224 7C53 BD13  6855 2AE0 25C0 08A8 6180
+
+
