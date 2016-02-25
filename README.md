@@ -1,5 +1,4 @@
-# Projeto de Tradução do Manual de Comandos Gerais do Bash, versão 4.3, 
-# para o idioma português do Brasil.
+# Projeto de Tradução do Manual de Comandos Gerais do Bash, versão 4.3, para o idioma português do Brasil.
 
 Translation project of the General Commands Manual of Bash, version 4.3, 
 into brazilian portuguese.
