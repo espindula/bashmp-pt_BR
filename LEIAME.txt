@@ -1,13 +1,24 @@
 A expressão ``General Commands Manual'' é oriunda da página de manual de 
-Bash.   Assim, a aludida expressão foi tomada como sendo o nome do 
-projeto, para diferenciá-lo do projeto de tradução do ``Bash Reference 
-Manual''.   O curioso é que a expressão ``General Commands Manual'' 
-aparece em somente um documento: precisamente a página de manual de 
-Bash, e no formato ``groff''.   Quando se procura pelo arquivo 
+Bash (arquivo ``bash.1''), normalmente encontrado no diretório 
+</usr/share/man/man1/>.   Assim, a aludida expressão foi tomada como 
+sendo o nome do projeto, para diferenciá-lo do projeto de tradução do 
+``Bash Reference Manual''.   O curioso é que a expressão ``General 
+Commands Manual'' aparece em somente um documento: precisamente a página 
+de manual de Bash, e no formato ``roff''.   Quando se procura pelo arquivo 
 ``bash.1'' nos arquivos fontes de Bash (subdiretório ``doc''), 
-encontram-se outros formatos (PDF, HTML, Texto plano ASCII, entre 
-outros), porém em nenhum desses outros formatos aparece a expressão 
-``General Commands Manual''.
+encontram-se outros formatos (HTML, PDF, PostScript, além de uma 
+versão ``formatada'', conforme a informação trazida no arquivo README), 
+porém em nenhum desses outros formatos aparece a expressão ``General 
+Commands Manual''.   Buscou-se informação no sítio do Projeto de Páginas 
+de Manual do Linux <https://www.kernel.org/doc/man-pages/>, onde 
+colheu-se a seguinte informação:
+
+``O projeto provê páginas de manual nas seções seguintes:
+
+1: Comandos de Usuário; as páginas de manual incluem muito poucas 
+páginas da Seção 1 que documentam programas fornecidos pela biblioteca 
+GNU C''.
+Fonte: <https://www.kernel.org/doc/man-pages/>. Acesso em: 25 fev. 2016.
 
 
 Jaboatão dos Guararapes, Pernambuco, Brasil, 25 de fevereiro de 2016.
