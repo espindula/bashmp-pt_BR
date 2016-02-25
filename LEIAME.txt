@@ -1,0 +1,23 @@
+A expressão ``General Commands Manual'' é oriunda da página de manual de 
+Bash.   Assim, a aludida expressão foi tomada como sendo o nome do 
+projeto, para diferenciá-lo do projeto de tradução do ``Bash Reference 
+Manual''.   O curioso é que a expressão ``General Commands Manual'' 
+aparece em somente um documento: precisamente a página de manual de 
+Bash, e no formato ``groff''.   Quando se procura pelo arquivo 
+``bash.1'' nos arquivos fontes de Bash (subdiretório ``doc''), 
+encontram-se outros formatos (PDF, HTML, Texto plano ASCII, entre 
+outros), porém em nenhum desses outros formatos aparece a expressão 
+``General Commands Manual''.
+
+
+Jaboatão dos Guararapes, Pernambuco, Brasil, 25 de fevereiro de 2016.
+
+
+Jamenson Ferreira Espindula de Almeida Melo
+Usuário GNU/Linux nº 166197
+https://linuxcounter.net/cert/166197.png
+
+Impressão digital da chave:
+234D 1914 4224 7C53 BD13  6855 2AE0 25C0 08A8 6180
+
+
