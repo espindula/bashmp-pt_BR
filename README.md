@@ -1,7 +1,7 @@
 # Projeto de Tradução do Manual de Comandos Gerais do Bash, versão 4.3, para o idioma português do Brasil.
 
 Translation project of the General Commands Manual of Bash, version 4.3, 
-into brazilian portuguese.
+into Brazilian Portuguese.
 
 
 git clone https://github.com/espindula/bashgcm-pt_BR.git
@@ -12,7 +12,7 @@ portuguesa falada no Brasil: (c) 2016 Jamenson Ferreira Espindula de
 Almeida Melo.
 
   Este trabalho de tradução do Manual de Comandos Gerais de Bash é 
-  classificado pela Free Sotfware Foundation como sendo uma 
+  classificado pela Free Software Foundation como sendo uma 
   "versão modificada" do mencionado manual.   Em assim sendo, na 
   qualidade de tradutor, produtor da "versão modificada" e titular 
   dos direitos autorais sobre a versão traduzida para a língua 
@@ -26,6 +26,8 @@ Almeida Melo.
   Foundation; sem Seções Invariantes, sem Textos de Capa Frontal e sem 
   Textos de Quarta Capa.   Uma cópia da licença está incluída na seção 
   intitulada ``Licença de Documentação Livre GNU''.
+
+# Atenção: todos os documentos aqui publicados são distribuídos sem qualquer garantia, implícita e/ou explícita.
   
   Permission is granted to copy, distribute and/or modify this General 
   Commands Manual of Bash, version 4.3, translated into Brazilian 
@@ -35,6 +37,7 @@ Almeida Melo.
   Back-Cover Texts.   A copy of the license is included in the section 
   entitled ``GNU Free Documentation License''.
 
+# Warning: all the files herein published are released with no warranty, implicit and/or explicit.
 
 ************************************************************************
 ************************************************************************
