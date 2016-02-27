@@ -3,13 +3,13 @@
 The file ``bash.1'' from source tree was transformed into HTML via GNU 
 groff [roff2html in groffer 1.1.2 of 26 Jan 2011 (Perl version)]:
 
-$ roff2html /home/jamenson/bash/doc/bash.1 > bashgcm-en_US.html
+$ roff2html /home/jamenson/bash/doc/bash.1 > bashmp-en_US.html
 
 
-After, ``bashgcm-en_US.html'' was salved in plain text ASCII via Lynx 
+After, ``bashmp-en_US.html'' was salved in plain text ASCII via Lynx 
 text web browser [Lynx Version 2.8.8rel.2 (09 Mar 2014)]:
 
-$ lynx bashgcm-en_US.html
+$ lynx bashmp-en_US.html
 
 Now, we have a good initial file to work on.
 
@@ -37,7 +37,7 @@ See http://www.openssl.org/ for information about OpenSSL.
 
 
 
-Jaboatão dos Guararapes, Pernambuco, Brazil, 25 February 2016.
+Jaboatão dos Guararapes, Pernambuco, Brazil, 27 February 2016.
 
 Jamenson Ferreira Espindula de Almeida Melo
 GNU/Linux user # 166197
