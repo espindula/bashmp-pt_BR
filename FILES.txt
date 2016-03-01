@@ -1,0 +1,1 @@
+bashmp-pt_BR.texi:		Manual Page of Bash, version 4.3, translated into Brazilian Portuguese (GNU Texinfo source file)
