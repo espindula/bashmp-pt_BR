@@ -16,12 +16,11 @@ Direitos autorais da versão modificada traduzida para a língua portuguesa fala
   portuguesa da Página de Manual do Bash, versão 4.3, concede-se a 
   seguinte permissão:
 
-  É concedida permissão para copiar, distribuir e/ou modificar esta 
-  Página de Manual do Bash, versão 4.3, versão traduzida para a língua 
-  portuguesa, sob os termos da Licença de Documentação Livre GNU, 
-  versão 1.3 ou qualquer versão posterior publicada pela Free Software 
-  Foundation; sem Seções Invariantes, sem Textos de Capa Frontal e sem 
-  Textos de Quarta Capa.   Uma cópia da licença está incluída na seção 
+  Permissão é concedida para copiar, distribuir e/ou modificar este 
+  documento sob os termos da Licença de Documentação Livre GNU, Versão 
+  1.3 ou qualquer versão posterior publicada pela Free Software 
+  Foundation; sem Seções Invariantes, sem Textos de Primeira Capa, e sem 
+  Textos de Quarta Capa.   Uma cópia da licença está inclusa na seção 
   intitulada ``Licença de Documentação Livre GNU''.
 
 # Atenção: todos os documentos aqui publicados são distribuídos sem qualquer garantia, implícita e/ou explícita.
